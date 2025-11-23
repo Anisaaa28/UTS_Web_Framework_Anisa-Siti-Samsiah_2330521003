@@ -1,4 +1,4 @@
-> DATABASE SUDAH DI BACK UP DIDALAM FOLDER
+> DATABASE SUDAH DI BACK UP DIDALAM FOLDER;
 > Catatan: Ini Halaman Biodata
 ![](public/11.png)
 > Catatan: Ini Halaman Pendidikan
