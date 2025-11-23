@@ -1,1 +1,1 @@
-![Biodata]("/11.png")
+![Biodata]("11.png")
