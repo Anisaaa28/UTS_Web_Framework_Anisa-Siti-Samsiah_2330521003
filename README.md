@@ -1,8 +1,8 @@
 # UTS WEB FRAMEWORK
 
-NAMA: <Anisa Siti Samsiah>
+NAMA: Anisa Siti Samsiah
 
-NIM : <2330521003>
+NIM : 2330521003
 
 
 > Catatan: Ini Halaman Biodata
